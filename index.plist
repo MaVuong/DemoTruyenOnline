@@ -10,5 +10,13 @@
 		<key>version</key>
 		<string>1.0</string>
 	</dict>
+	<dict>
+		<key>bookName</key>
+		<string>Trang truyen moi</string>
+		<key>urlbook</key>
+		<string>https://github.com/MaVuong/DemoTruyenOnline/raw/master/index.ccbi.zip</string>
+		<key>version</key>
+		<string>1.0</string>
+	</dict>
 </array>
 </plist>
