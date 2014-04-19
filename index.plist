@@ -4,9 +4,9 @@
 <array>
 	<dict>
 		<key>bookName</key>
-		<string>Book 1-ABC </string>
+		<string>TrangTruyen2</string>
 		<key>urlbook</key>
-		<string></string>
+		<string>https://github.com/MaVuong/DemoTruyenOnline/raw/master/Truyen2.lksb.zip</string>
 		<key>version</key>
 		<string>1.0</string>
 	</dict>
